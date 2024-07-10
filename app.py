@@ -10,12 +10,10 @@ st.set_page_config(page_title="Emerging Technology 2 in CpE", layout="wide")
 st.title("Emerging Technology 2 in CpE")
 st.markdown("""
 Name:
-- Mark Janssen Valencia
-- Meyrazol Reponte
-
+- Sales Aj Angelo S
 Course/Section: CPE019/CPE32S5
 
-Date Submitted: May 17, 2024
+Date Submitted: Jul 10, 2024
 """)
 
 # Load the trained model
