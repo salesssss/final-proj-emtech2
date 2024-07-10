@@ -1,1 +1,1 @@
-# final-proj-emtech2
+# FinalProj
